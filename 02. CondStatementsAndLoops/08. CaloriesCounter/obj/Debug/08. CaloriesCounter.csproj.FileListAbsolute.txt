@@ -1,0 +1,6 @@
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\06. CondStatementsAndLoops\08. CaloriesCounter\bin\Debug\_08.CaloriesCounter.exe.config
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\06. CondStatementsAndLoops\08. CaloriesCounter\bin\Debug\_08.CaloriesCounter.exe
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\06. CondStatementsAndLoops\08. CaloriesCounter\bin\Debug\_08.CaloriesCounter.pdb
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\06. CondStatementsAndLoops\08. CaloriesCounter\obj\Debug\08. CaloriesCounter.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\06. CondStatementsAndLoops\08. CaloriesCounter\obj\Debug\_08.CaloriesCounter.exe
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\06. CondStatementsAndLoops\08. CaloriesCounter\obj\Debug\_08.CaloriesCounter.pdb

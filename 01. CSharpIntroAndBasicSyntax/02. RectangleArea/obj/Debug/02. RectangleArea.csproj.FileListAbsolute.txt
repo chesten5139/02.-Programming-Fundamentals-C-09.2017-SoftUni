@@ -1,0 +1,6 @@
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\04. CSharpIntroAndBasicSyntax\02. RectangleArea\bin\Debug\_02.RectangleArea.exe.config
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\04. CSharpIntroAndBasicSyntax\02. RectangleArea\bin\Debug\_02.RectangleArea.exe
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\04. CSharpIntroAndBasicSyntax\02. RectangleArea\bin\Debug\_02.RectangleArea.pdb
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\04. CSharpIntroAndBasicSyntax\02. RectangleArea\obj\Debug\02. RectangleArea.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\04. CSharpIntroAndBasicSyntax\02. RectangleArea\obj\Debug\_02.RectangleArea.exe
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\04. CSharpIntroAndBasicSyntax\02. RectangleArea\obj\Debug\_02.RectangleArea.pdb

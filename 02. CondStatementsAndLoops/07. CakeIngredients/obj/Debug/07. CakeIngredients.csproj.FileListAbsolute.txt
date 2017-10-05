@@ -1,0 +1,6 @@
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\06. CondStatementsAndLoops\07. CakeIngredients\bin\Debug\_07.CakeIngredients.exe.config
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\06. CondStatementsAndLoops\07. CakeIngredients\bin\Debug\_07.CakeIngredients.exe
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\06. CondStatementsAndLoops\07. CakeIngredients\bin\Debug\_07.CakeIngredients.pdb
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\06. CondStatementsAndLoops\07. CakeIngredients\obj\Debug\07. CakeIngredients.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\06. CondStatementsAndLoops\07. CakeIngredients\obj\Debug\_07.CakeIngredients.exe
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\06. CondStatementsAndLoops\07. CakeIngredients\obj\Debug\_07.CakeIngredients.pdb

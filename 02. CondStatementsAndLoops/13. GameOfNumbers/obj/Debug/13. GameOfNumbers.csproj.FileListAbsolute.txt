@@ -1,0 +1,6 @@
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\06. CondStatementsAndLoops\13. GameOfNumbers\bin\Debug\_13.GameOfNumbers.exe.config
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\06. CondStatementsAndLoops\13. GameOfNumbers\bin\Debug\_13.GameOfNumbers.exe
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\06. CondStatementsAndLoops\13. GameOfNumbers\bin\Debug\_13.GameOfNumbers.pdb
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\06. CondStatementsAndLoops\13. GameOfNumbers\obj\Debug\13. GameOfNumbers.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\06. CondStatementsAndLoops\13. GameOfNumbers\obj\Debug\_13.GameOfNumbers.exe
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\06. CondStatementsAndLoops\13. GameOfNumbers\obj\Debug\_13.GameOfNumbers.pdb

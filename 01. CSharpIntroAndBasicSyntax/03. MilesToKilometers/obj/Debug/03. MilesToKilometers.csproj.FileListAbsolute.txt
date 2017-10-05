@@ -1,0 +1,6 @@
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\04. CSharpIntroAndBasicSyntax\03. MilesToKilometers\bin\Debug\_03.MilesToKilometers.exe.config
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\04. CSharpIntroAndBasicSyntax\03. MilesToKilometers\bin\Debug\_03.MilesToKilometers.exe
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\04. CSharpIntroAndBasicSyntax\03. MilesToKilometers\bin\Debug\_03.MilesToKilometers.pdb
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\04. CSharpIntroAndBasicSyntax\03. MilesToKilometers\obj\Debug\03. MilesToKilometers.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\04. CSharpIntroAndBasicSyntax\03. MilesToKilometers\obj\Debug\_03.MilesToKilometers.exe
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\04. CSharpIntroAndBasicSyntax\03. MilesToKilometers\obj\Debug\_03.MilesToKilometers.pdb

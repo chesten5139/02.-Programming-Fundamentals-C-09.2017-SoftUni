@@ -1,0 +1,7 @@
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\06. CondStatementsAndLoops\05. WordInPlural\bin\Debug\_05.WordInPlural.exe.config
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\06. CondStatementsAndLoops\05. WordInPlural\bin\Debug\_05.WordInPlural.exe
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\06. CondStatementsAndLoops\05. WordInPlural\bin\Debug\_05.WordInPlural.pdb
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\06. CondStatementsAndLoops\05. WordInPlural\obj\Debug\05. WordInPlural.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\06. CondStatementsAndLoops\05. WordInPlural\obj\Debug\_05.WordInPlural.exe
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\06. CondStatementsAndLoops\05. WordInPlural\obj\Debug\_05.WordInPlural.pdb
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\06. CondStatementsAndLoops\05. WordInPlural\obj\Debug\05. WordInPlural.csprojResolveAssemblyReference.cache

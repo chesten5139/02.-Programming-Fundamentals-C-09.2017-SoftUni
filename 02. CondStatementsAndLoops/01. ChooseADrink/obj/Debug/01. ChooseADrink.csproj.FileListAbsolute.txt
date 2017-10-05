@@ -1,0 +1,7 @@
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\06. CondStatementsAndLoops\01. ChooseADrink\bin\Debug\_01.ChooseADrink.exe.config
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\06. CondStatementsAndLoops\01. ChooseADrink\bin\Debug\_01.ChooseADrink.exe
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\06. CondStatementsAndLoops\01. ChooseADrink\bin\Debug\_01.ChooseADrink.pdb
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\06. CondStatementsAndLoops\01. ChooseADrink\obj\Debug\01. ChooseADrink.csprojResolveAssemblyReference.cache
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\06. CondStatementsAndLoops\01. ChooseADrink\obj\Debug\01. ChooseADrink.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\06. CondStatementsAndLoops\01. ChooseADrink\obj\Debug\_01.ChooseADrink.exe
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\06. CondStatementsAndLoops\01. ChooseADrink\obj\Debug\_01.ChooseADrink.pdb

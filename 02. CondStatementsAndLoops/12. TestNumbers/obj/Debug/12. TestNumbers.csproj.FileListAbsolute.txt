@@ -1,0 +1,7 @@
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\06. CondStatementsAndLoops\12. TestNumbers\bin\Debug\_12.TestNumbers.exe.config
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\06. CondStatementsAndLoops\12. TestNumbers\bin\Debug\_12.TestNumbers.exe
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\06. CondStatementsAndLoops\12. TestNumbers\bin\Debug\_12.TestNumbers.pdb
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\06. CondStatementsAndLoops\12. TestNumbers\obj\Debug\12. TestNumbers.csprojResolveAssemblyReference.cache
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\06. CondStatementsAndLoops\12. TestNumbers\obj\Debug\12. TestNumbers.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\06. CondStatementsAndLoops\12. TestNumbers\obj\Debug\_12.TestNumbers.exe
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\06. CondStatementsAndLoops\12. TestNumbers\obj\Debug\_12.TestNumbers.pdb

@@ -1,0 +1,6 @@
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\06. CondStatementsAndLoops\10. TriangleOfNumbers\bin\Debug\_10.TriangleOfNumbers.exe.config
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\06. CondStatementsAndLoops\10. TriangleOfNumbers\bin\Debug\_10.TriangleOfNumbers.exe
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\06. CondStatementsAndLoops\10. TriangleOfNumbers\bin\Debug\_10.TriangleOfNumbers.pdb
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\06. CondStatementsAndLoops\10. TriangleOfNumbers\obj\Debug\10. TriangleOfNumbers.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\06. CondStatementsAndLoops\10. TriangleOfNumbers\obj\Debug\_10.TriangleOfNumbers.exe
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\06. CondStatementsAndLoops\10. TriangleOfNumbers\obj\Debug\_10.TriangleOfNumbers.pdb

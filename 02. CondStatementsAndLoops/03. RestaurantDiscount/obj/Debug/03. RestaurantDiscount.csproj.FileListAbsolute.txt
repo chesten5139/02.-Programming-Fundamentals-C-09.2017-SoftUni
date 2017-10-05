@@ -1,0 +1,6 @@
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\06. CondStatementsAndLoops\03. RestaurantDiscount\bin\Debug\_03.RestaurantDiscount.exe.config
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\06. CondStatementsAndLoops\03. RestaurantDiscount\bin\Debug\_03.RestaurantDiscount.exe
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\06. CondStatementsAndLoops\03. RestaurantDiscount\bin\Debug\_03.RestaurantDiscount.pdb
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\06. CondStatementsAndLoops\03. RestaurantDiscount\obj\Debug\03. RestaurantDiscount.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\06. CondStatementsAndLoops\03. RestaurantDiscount\obj\Debug\_03.RestaurantDiscount.exe
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\06. CondStatementsAndLoops\03. RestaurantDiscount\obj\Debug\_03.RestaurantDiscount.pdb

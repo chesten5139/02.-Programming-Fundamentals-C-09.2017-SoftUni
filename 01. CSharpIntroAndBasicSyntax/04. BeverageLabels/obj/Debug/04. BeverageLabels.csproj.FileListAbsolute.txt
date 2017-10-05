@@ -1,0 +1,6 @@
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\04. CSharpIntroAndBasicSyntax\04. BeverageLabels\bin\Debug\_04.BeverageLabels.exe.config
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\04. CSharpIntroAndBasicSyntax\04. BeverageLabels\bin\Debug\_04.BeverageLabels.exe
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\04. CSharpIntroAndBasicSyntax\04. BeverageLabels\bin\Debug\_04.BeverageLabels.pdb
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\04. CSharpIntroAndBasicSyntax\04. BeverageLabels\obj\Debug\04. BeverageLabels.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\04. CSharpIntroAndBasicSyntax\04. BeverageLabels\obj\Debug\_04.BeverageLabels.exe
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\04. CSharpIntroAndBasicSyntax\04. BeverageLabels\obj\Debug\_04.BeverageLabels.pdb

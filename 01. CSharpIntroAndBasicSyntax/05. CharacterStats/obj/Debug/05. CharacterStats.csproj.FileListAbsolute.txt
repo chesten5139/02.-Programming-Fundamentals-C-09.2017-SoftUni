@@ -1,0 +1,6 @@
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\04. CSharpIntroAndBasicSyntax\05. CharacterStats\bin\Debug\_05.CharacterStats.exe.config
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\04. CSharpIntroAndBasicSyntax\05. CharacterStats\bin\Debug\_05.CharacterStats.exe
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\04. CSharpIntroAndBasicSyntax\05. CharacterStats\bin\Debug\_05.CharacterStats.pdb
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\04. CSharpIntroAndBasicSyntax\05. CharacterStats\obj\Debug\05. CharacterStats.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\04. CSharpIntroAndBasicSyntax\05. CharacterStats\obj\Debug\_05.CharacterStats.exe
+D:\Dropbox\Educational\Programming\02. Programming Fundamentals C# 09.2017 SoftUni\04. CSharpIntroAndBasicSyntax\05. CharacterStats\obj\Debug\_05.CharacterStats.pdb
