@@ -1,0 +1,7 @@
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\03. DataTypesAndVariables-Ex\11. ConvertSpeedUnits\bin\Debug\_11.ConvertSpeedUnits.exe.config
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\03. DataTypesAndVariables-Ex\11. ConvertSpeedUnits\bin\Debug\_11.ConvertSpeedUnits.exe
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\03. DataTypesAndVariables-Ex\11. ConvertSpeedUnits\bin\Debug\_11.ConvertSpeedUnits.pdb
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\03. DataTypesAndVariables-Ex\11. ConvertSpeedUnits\obj\Debug\11. ConvertSpeedUnits.csprojResolveAssemblyReference.cache
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\03. DataTypesAndVariables-Ex\11. ConvertSpeedUnits\obj\Debug\11. ConvertSpeedUnits.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\03. DataTypesAndVariables-Ex\11. ConvertSpeedUnits\obj\Debug\_11.ConvertSpeedUnits.exe
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\03. DataTypesAndVariables-Ex\11. ConvertSpeedUnits\obj\Debug\_11.ConvertSpeedUnits.pdb

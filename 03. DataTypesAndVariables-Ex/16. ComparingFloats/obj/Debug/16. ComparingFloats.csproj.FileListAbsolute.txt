@@ -1,0 +1,6 @@
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\03. DataTypesAndVariables-Ex\16. ComparingFloats\bin\Debug\_16.ComparingFloats.exe.config
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\03. DataTypesAndVariables-Ex\16. ComparingFloats\bin\Debug\_16.ComparingFloats.exe
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\03. DataTypesAndVariables-Ex\16. ComparingFloats\bin\Debug\_16.ComparingFloats.pdb
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\03. DataTypesAndVariables-Ex\16. ComparingFloats\obj\Debug\16. ComparingFloats.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\03. DataTypesAndVariables-Ex\16. ComparingFloats\obj\Debug\_16.ComparingFloats.exe
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\03. DataTypesAndVariables-Ex\16. ComparingFloats\obj\Debug\_16.ComparingFloats.pdb

@@ -1,0 +1,7 @@
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\03. DataTypesAndVariables-Ex\19. TheaThePhotographer\bin\Debug\_19.TheaThePhotographer.exe.config
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\03. DataTypesAndVariables-Ex\19. TheaThePhotographer\bin\Debug\_19.TheaThePhotographer.exe
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\03. DataTypesAndVariables-Ex\19. TheaThePhotographer\bin\Debug\_19.TheaThePhotographer.pdb
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\03. DataTypesAndVariables-Ex\19. TheaThePhotographer\obj\Debug\19. TheaThePhotographer.csprojResolveAssemblyReference.cache
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\03. DataTypesAndVariables-Ex\19. TheaThePhotographer\obj\Debug\19. TheaThePhotographer.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\03. DataTypesAndVariables-Ex\19. TheaThePhotographer\obj\Debug\_19.TheaThePhotographer.exe
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\03. DataTypesAndVariables-Ex\19. TheaThePhotographer\obj\Debug\_19.TheaThePhotographer.pdb

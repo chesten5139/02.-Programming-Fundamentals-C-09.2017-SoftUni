@@ -1,0 +1,7 @@
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\03. DataTypesAndVariables-Ex\10. CenturiesToNanoseconds\bin\Debug\_10.CenturiesToNanoseconds.exe.config
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\03. DataTypesAndVariables-Ex\10. CenturiesToNanoseconds\bin\Debug\_10.CenturiesToNanoseconds.exe
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\03. DataTypesAndVariables-Ex\10. CenturiesToNanoseconds\bin\Debug\_10.CenturiesToNanoseconds.pdb
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\03. DataTypesAndVariables-Ex\10. CenturiesToNanoseconds\obj\Debug\10. CenturiesToNanoseconds.csprojResolveAssemblyReference.cache
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\03. DataTypesAndVariables-Ex\10. CenturiesToNanoseconds\obj\Debug\10. CenturiesToNanoseconds.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\03. DataTypesAndVariables-Ex\10. CenturiesToNanoseconds\obj\Debug\_10.CenturiesToNanoseconds.exe
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\03. DataTypesAndVariables-Ex\10. CenturiesToNanoseconds\obj\Debug\_10.CenturiesToNanoseconds.pdb

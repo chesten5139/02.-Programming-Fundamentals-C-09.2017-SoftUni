@@ -1,0 +1,7 @@
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\03. DataTypesAndVariables-Ex\02. PracticeFloatingPoints\bin\Debug\_02.PracticeFloatingPoints.exe.config
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\03. DataTypesAndVariables-Ex\02. PracticeFloatingPoints\bin\Debug\_02.PracticeFloatingPoints.exe
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\03. DataTypesAndVariables-Ex\02. PracticeFloatingPoints\bin\Debug\_02.PracticeFloatingPoints.pdb
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\03. DataTypesAndVariables-Ex\02. PracticeFloatingPoints\obj\Debug\02. PracticeFloatingPoints.csprojResolveAssemblyReference.cache
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\03. DataTypesAndVariables-Ex\02. PracticeFloatingPoints\obj\Debug\02. PracticeFloatingPoints.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\03. DataTypesAndVariables-Ex\02. PracticeFloatingPoints\obj\Debug\_02.PracticeFloatingPoints.exe
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\03. DataTypesAndVariables-Ex\02. PracticeFloatingPoints\obj\Debug\_02.PracticeFloatingPoints.pdb

@@ -1,0 +1,6 @@
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\03. DataTypesAndVariables-Ex\15. FastPrimeChecker\bin\Debug\_15.FastPrimeChecker.exe.config
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\03. DataTypesAndVariables-Ex\15. FastPrimeChecker\bin\Debug\_15.FastPrimeChecker.exe
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\03. DataTypesAndVariables-Ex\15. FastPrimeChecker\bin\Debug\_15.FastPrimeChecker.pdb
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\03. DataTypesAndVariables-Ex\15. FastPrimeChecker\obj\Debug\15. FastPrimeChecker.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\03. DataTypesAndVariables-Ex\15. FastPrimeChecker\obj\Debug\_15.FastPrimeChecker.exe
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\03. DataTypesAndVariables-Ex\15. FastPrimeChecker\obj\Debug\_15.FastPrimeChecker.pdb

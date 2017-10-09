@@ -1,0 +1,6 @@
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\03. DataTypesAndVariables-Ex\07. ExchangeVariableValues\bin\Debug\_07.ExchangeVariableValues.exe.config
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\03. DataTypesAndVariables-Ex\07. ExchangeVariableValues\bin\Debug\_07.ExchangeVariableValues.exe
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\03. DataTypesAndVariables-Ex\07. ExchangeVariableValues\bin\Debug\_07.ExchangeVariableValues.pdb
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\03. DataTypesAndVariables-Ex\07. ExchangeVariableValues\obj\Debug\07. ExchangeVariableValues.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\03. DataTypesAndVariables-Ex\07. ExchangeVariableValues\obj\Debug\_07.ExchangeVariableValues.exe
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\03. DataTypesAndVariables-Ex\07. ExchangeVariableValues\obj\Debug\_07.ExchangeVariableValues.pdb

@@ -1,0 +1,6 @@
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\03. DataTypesAndVariables-Ex\04. VariableInHexFormat\bin\Debug\_04.VariableInHexFormat.exe.config
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\03. DataTypesAndVariables-Ex\04. VariableInHexFormat\bin\Debug\_04.VariableInHexFormat.exe
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\03. DataTypesAndVariables-Ex\04. VariableInHexFormat\bin\Debug\_04.VariableInHexFormat.pdb
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\03. DataTypesAndVariables-Ex\04. VariableInHexFormat\obj\Debug\04. VariableInHexFormat.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\03. DataTypesAndVariables-Ex\04. VariableInHexFormat\obj\Debug\_04.VariableInHexFormat.exe
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\03. DataTypesAndVariables-Ex\04. VariableInHexFormat\obj\Debug\_04.VariableInHexFormat.pdb
