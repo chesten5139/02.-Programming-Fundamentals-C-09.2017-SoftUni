@@ -1,0 +1,6 @@
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\04. MethodsDebugging-Exercises\06. PrimeChecker\obj\Debug\06. PrimeChecker.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\04. MethodsDebugging-Exercises\06. PrimeChecker\bin\Debug\_06.PrimeChecker.exe.config
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\04. MethodsDebugging-Exercises\06. PrimeChecker\bin\Debug\_06.PrimeChecker.exe
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\04. MethodsDebugging-Exercises\06. PrimeChecker\bin\Debug\_06.PrimeChecker.pdb
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\04. MethodsDebugging-Exercises\06. PrimeChecker\obj\Debug\_06.PrimeChecker.exe
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\04. MethodsDebugging-Exercises\06. PrimeChecker\obj\Debug\_06.PrimeChecker.pdb

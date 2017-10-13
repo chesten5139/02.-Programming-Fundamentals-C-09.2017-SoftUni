@@ -1,0 +1,7 @@
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\04. MethodsDebugging-Exercises\07. PrimesInGivenRange\bin\Debug\_07.PrimesInGivenRange.exe.config
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\04. MethodsDebugging-Exercises\07. PrimesInGivenRange\bin\Debug\_07.PrimesInGivenRange.exe
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\04. MethodsDebugging-Exercises\07. PrimesInGivenRange\bin\Debug\_07.PrimesInGivenRange.pdb
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\04. MethodsDebugging-Exercises\07. PrimesInGivenRange\obj\Debug\07. PrimesInGivenRange.csprojResolveAssemblyReference.cache
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\04. MethodsDebugging-Exercises\07. PrimesInGivenRange\obj\Debug\07. PrimesInGivenRange.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\04. MethodsDebugging-Exercises\07. PrimesInGivenRange\obj\Debug\_07.PrimesInGivenRange.exe
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\04. MethodsDebugging-Exercises\07. PrimesInGivenRange\obj\Debug\_07.PrimesInGivenRange.pdb

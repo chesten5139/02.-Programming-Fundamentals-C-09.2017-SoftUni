@@ -1,0 +1,7 @@
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\04. MethodsDebugging-Exercises\02. MaxMethod\bin\Debug\_02.MaxMethod.exe.config
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\04. MethodsDebugging-Exercises\02. MaxMethod\bin\Debug\_02.MaxMethod.exe
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\04. MethodsDebugging-Exercises\02. MaxMethod\bin\Debug\_02.MaxMethod.pdb
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\04. MethodsDebugging-Exercises\02. MaxMethod\obj\Debug\02. MaxMethod.csprojResolveAssemblyReference.cache
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\04. MethodsDebugging-Exercises\02. MaxMethod\obj\Debug\02. MaxMethod.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\04. MethodsDebugging-Exercises\02. MaxMethod\obj\Debug\_02.MaxMethod.exe
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\04. MethodsDebugging-Exercises\02. MaxMethod\obj\Debug\_02.MaxMethod.pdb

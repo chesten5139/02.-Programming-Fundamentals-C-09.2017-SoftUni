@@ -1,0 +1,7 @@
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\04. MethodsDebugging-Exercises\08. CenterPoint\bin\Debug\_08.CenterPoint.exe.config
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\04. MethodsDebugging-Exercises\08. CenterPoint\bin\Debug\_08.CenterPoint.exe
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\04. MethodsDebugging-Exercises\08. CenterPoint\bin\Debug\_08.CenterPoint.pdb
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\04. MethodsDebugging-Exercises\08. CenterPoint\obj\Debug\08. CenterPoint.csprojResolveAssemblyReference.cache
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\04. MethodsDebugging-Exercises\08. CenterPoint\obj\Debug\08. CenterPoint.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\04. MethodsDebugging-Exercises\08. CenterPoint\obj\Debug\_08.CenterPoint.exe
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\04. MethodsDebugging-Exercises\08. CenterPoint\obj\Debug\_08.CenterPoint.pdb

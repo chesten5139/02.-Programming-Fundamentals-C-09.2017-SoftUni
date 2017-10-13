@@ -1,0 +1,7 @@
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\04. MethodsDebugging-Exercises\01. HelloName!\bin\Debug\_01.HelloName_.exe.config
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\04. MethodsDebugging-Exercises\01. HelloName!\bin\Debug\_01.HelloName_.exe
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\04. MethodsDebugging-Exercises\01. HelloName!\bin\Debug\_01.HelloName_.pdb
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\04. MethodsDebugging-Exercises\01. HelloName!\obj\Debug\01. HelloName!.csprojResolveAssemblyReference.cache
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\04. MethodsDebugging-Exercises\01. HelloName!\obj\Debug\01. HelloName!.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\04. MethodsDebugging-Exercises\01. HelloName!\obj\Debug\_01.HelloName_.exe
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\04. MethodsDebugging-Exercises\01. HelloName!\obj\Debug\_01.HelloName_.pdb

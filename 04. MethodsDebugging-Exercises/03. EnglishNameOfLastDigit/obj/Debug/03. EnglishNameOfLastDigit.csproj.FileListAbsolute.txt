@@ -1,0 +1,6 @@
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\04. MethodsDebugging-Exercises\03. EnglishNameOfLastDigit\bin\Debug\_03.EnglishNameOfLastDigit.exe.config
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\04. MethodsDebugging-Exercises\03. EnglishNameOfLastDigit\bin\Debug\_03.EnglishNameOfLastDigit.exe
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\04. MethodsDebugging-Exercises\03. EnglishNameOfLastDigit\bin\Debug\_03.EnglishNameOfLastDigit.pdb
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\04. MethodsDebugging-Exercises\03. EnglishNameOfLastDigit\obj\Debug\03. EnglishNameOfLastDigit.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\04. MethodsDebugging-Exercises\03. EnglishNameOfLastDigit\obj\Debug\_03.EnglishNameOfLastDigit.exe
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\04. MethodsDebugging-Exercises\03. EnglishNameOfLastDigit\obj\Debug\_03.EnglishNameOfLastDigit.pdb

@@ -1,0 +1,7 @@
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\04. MethodsDebugging-Exercises\04. NumbersInReversedOrder\bin\Debug\_04.NumbersInReversedOrder.exe.config
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\04. MethodsDebugging-Exercises\04. NumbersInReversedOrder\bin\Debug\_04.NumbersInReversedOrder.exe
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\04. MethodsDebugging-Exercises\04. NumbersInReversedOrder\bin\Debug\_04.NumbersInReversedOrder.pdb
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\04. MethodsDebugging-Exercises\04. NumbersInReversedOrder\obj\Debug\04. NumbersInReversedOrder.csprojResolveAssemblyReference.cache
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\04. MethodsDebugging-Exercises\04. NumbersInReversedOrder\obj\Debug\04. NumbersInReversedOrder.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\04. MethodsDebugging-Exercises\04. NumbersInReversedOrder\obj\Debug\_04.NumbersInReversedOrder.exe
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\04. MethodsDebugging-Exercises\04. NumbersInReversedOrder\obj\Debug\_04.NumbersInReversedOrder.pdb
