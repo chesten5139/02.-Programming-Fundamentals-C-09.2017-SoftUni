@@ -1,0 +1,7 @@
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\06. Arrays-Exercises\02. RotateAndSum\obj\Debug\02. RotateAndSum.csprojResolveAssemblyReference.cache
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\06. Arrays-Exercises\02. RotateAndSum\obj\Debug\02. RotateAndSum.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\06. Arrays-Exercises\02. RotateAndSum\bin\Debug\_02.RotateAndSum.exe.config
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\06. Arrays-Exercises\02. RotateAndSum\bin\Debug\_02.RotateAndSum.exe
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\06. Arrays-Exercises\02. RotateAndSum\bin\Debug\_02.RotateAndSum.pdb
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\06. Arrays-Exercises\02. RotateAndSum\obj\Debug\_02.RotateAndSum.exe
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\06. Arrays-Exercises\02. RotateAndSum\obj\Debug\_02.RotateAndSum.pdb

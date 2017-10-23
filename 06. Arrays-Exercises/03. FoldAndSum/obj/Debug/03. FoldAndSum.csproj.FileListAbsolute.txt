@@ -1,0 +1,7 @@
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\06. Arrays-Exercises\03. FoldAndSum\bin\Debug\_03.FoldAndSum.exe.config
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\06. Arrays-Exercises\03. FoldAndSum\bin\Debug\_03.FoldAndSum.exe
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\06. Arrays-Exercises\03. FoldAndSum\bin\Debug\_03.FoldAndSum.pdb
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\06. Arrays-Exercises\03. FoldAndSum\obj\Debug\03. FoldAndSum.csprojResolveAssemblyReference.cache
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\06. Arrays-Exercises\03. FoldAndSum\obj\Debug\03. FoldAndSum.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\06. Arrays-Exercises\03. FoldAndSum\obj\Debug\_03.FoldAndSum.exe
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\06. Arrays-Exercises\03. FoldAndSum\obj\Debug\_03.FoldAndSum.pdb

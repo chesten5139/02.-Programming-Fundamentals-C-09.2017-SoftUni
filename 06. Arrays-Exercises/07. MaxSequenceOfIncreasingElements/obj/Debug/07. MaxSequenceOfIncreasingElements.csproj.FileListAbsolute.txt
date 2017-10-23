@@ -1,0 +1,7 @@
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\06. Arrays-Exercises\07. MaxSequenceOfIncreasingElements\bin\Debug\_07.MaxSequenceOfIncreasingElements.exe.config
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\06. Arrays-Exercises\07. MaxSequenceOfIncreasingElements\bin\Debug\_07.MaxSequenceOfIncreasingElements.exe
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\06. Arrays-Exercises\07. MaxSequenceOfIncreasingElements\bin\Debug\_07.MaxSequenceOfIncreasingElements.pdb
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\06. Arrays-Exercises\07. MaxSequenceOfIncreasingElements\obj\Debug\07. MaxSequenceOfIncreasingElements.csprojResolveAssemblyReference.cache
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\06. Arrays-Exercises\07. MaxSequenceOfIncreasingElements\obj\Debug\07. MaxSequenceOfIncreasingElements.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\06. Arrays-Exercises\07. MaxSequenceOfIncreasingElements\obj\Debug\_07.MaxSequenceOfIncreasingElements.exe
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\06. Arrays-Exercises\07. MaxSequenceOfIncreasingElements\obj\Debug\_07.MaxSequenceOfIncreasingElements.pdb
