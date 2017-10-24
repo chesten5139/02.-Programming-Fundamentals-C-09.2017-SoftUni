@@ -1,0 +1,7 @@
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\07. Lists-Exercises\01. MaxSequenceOfEqualElements\bin\Debug\_01.MaxSequenceOfEqualElements.exe.config
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\07. Lists-Exercises\01. MaxSequenceOfEqualElements\bin\Debug\_01.MaxSequenceOfEqualElements.exe
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\07. Lists-Exercises\01. MaxSequenceOfEqualElements\bin\Debug\_01.MaxSequenceOfEqualElements.pdb
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\07. Lists-Exercises\01. MaxSequenceOfEqualElements\obj\Debug\01. MaxSequenceOfEqualElements.csprojResolveAssemblyReference.cache
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\07. Lists-Exercises\01. MaxSequenceOfEqualElements\obj\Debug\01. MaxSequenceOfEqualElements.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\07. Lists-Exercises\01. MaxSequenceOfEqualElements\obj\Debug\_01.MaxSequenceOfEqualElements.exe
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\07. Lists-Exercises\01. MaxSequenceOfEqualElements\obj\Debug\_01.MaxSequenceOfEqualElements.pdb

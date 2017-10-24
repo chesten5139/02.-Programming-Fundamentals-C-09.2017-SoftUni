@@ -1,0 +1,7 @@
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\07. Lists-Exercises\03. SearchForANumber\bin\Debug\_03.SearchForANumber.exe.config
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\07. Lists-Exercises\03. SearchForANumber\bin\Debug\_03.SearchForANumber.exe
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\07. Lists-Exercises\03. SearchForANumber\bin\Debug\_03.SearchForANumber.pdb
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\07. Lists-Exercises\03. SearchForANumber\obj\Debug\03. SearchForANumber.csprojResolveAssemblyReference.cache
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\07. Lists-Exercises\03. SearchForANumber\obj\Debug\03. SearchForANumber.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\07. Lists-Exercises\03. SearchForANumber\obj\Debug\_03.SearchForANumber.exe
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\07. Lists-Exercises\03. SearchForANumber\obj\Debug\_03.SearchForANumber.pdb
