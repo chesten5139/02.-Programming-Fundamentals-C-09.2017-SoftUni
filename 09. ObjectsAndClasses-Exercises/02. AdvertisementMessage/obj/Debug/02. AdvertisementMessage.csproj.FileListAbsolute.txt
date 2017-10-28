@@ -1,0 +1,7 @@
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\09. ObjectsAndClasses-Exercises\02. AdvertisementMessage\bin\Debug\_02.AdvertisementMessage.exe.config
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\09. ObjectsAndClasses-Exercises\02. AdvertisementMessage\bin\Debug\_02.AdvertisementMessage.exe
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\09. ObjectsAndClasses-Exercises\02. AdvertisementMessage\bin\Debug\_02.AdvertisementMessage.pdb
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\09. ObjectsAndClasses-Exercises\02. AdvertisementMessage\obj\Debug\02. AdvertisementMessage.csprojResolveAssemblyReference.cache
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\09. ObjectsAndClasses-Exercises\02. AdvertisementMessage\obj\Debug\02. AdvertisementMessage.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\09. ObjectsAndClasses-Exercises\02. AdvertisementMessage\obj\Debug\_02.AdvertisementMessage.exe
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\09. ObjectsAndClasses-Exercises\02. AdvertisementMessage\obj\Debug\_02.AdvertisementMessage.pdb

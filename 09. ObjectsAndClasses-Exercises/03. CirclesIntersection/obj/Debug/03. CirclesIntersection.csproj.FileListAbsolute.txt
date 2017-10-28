@@ -1,0 +1,6 @@
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\09. ObjectsAndClasses-Exercises\03. CirclesIntersection\bin\Debug\_03.CirclesIntersection.exe.config
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\09. ObjectsAndClasses-Exercises\03. CirclesIntersection\bin\Debug\_03.CirclesIntersection.exe
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\09. ObjectsAndClasses-Exercises\03. CirclesIntersection\bin\Debug\_03.CirclesIntersection.pdb
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\09. ObjectsAndClasses-Exercises\03. CirclesIntersection\obj\Debug\03. CirclesIntersection.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\09. ObjectsAndClasses-Exercises\03. CirclesIntersection\obj\Debug\_03.CirclesIntersection.exe
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\09. ObjectsAndClasses-Exercises\03. CirclesIntersection\obj\Debug\_03.CirclesIntersection.pdb

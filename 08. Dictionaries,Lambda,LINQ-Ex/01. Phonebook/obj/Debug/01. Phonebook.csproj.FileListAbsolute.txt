@@ -1,0 +1,7 @@
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\08. Dictionaries,Lambda,LINQ-Ex\01. Phonebook\bin\Debug\_01.Phonebook.exe.config
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\08. Dictionaries,Lambda,LINQ-Ex\01. Phonebook\bin\Debug\_01.Phonebook.exe
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\08. Dictionaries,Lambda,LINQ-Ex\01. Phonebook\bin\Debug\_01.Phonebook.pdb
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\08. Dictionaries,Lambda,LINQ-Ex\01. Phonebook\obj\Debug\01. Phonebook.csprojResolveAssemblyReference.cache
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\08. Dictionaries,Lambda,LINQ-Ex\01. Phonebook\obj\Debug\01. Phonebook.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\08. Dictionaries,Lambda,LINQ-Ex\01. Phonebook\obj\Debug\_01.Phonebook.exe
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\08. Dictionaries,Lambda,LINQ-Ex\01. Phonebook\obj\Debug\_01.Phonebook.pdb

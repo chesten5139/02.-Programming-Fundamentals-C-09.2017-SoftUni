@@ -1,0 +1,7 @@
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\09. ObjectsAndClasses-Exercises\05. BookLibrary\bin\Debug\_05.BookLibrary.exe.config
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\09. ObjectsAndClasses-Exercises\05. BookLibrary\bin\Debug\_05.BookLibrary.exe
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\09. ObjectsAndClasses-Exercises\05. BookLibrary\bin\Debug\_05.BookLibrary.pdb
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\09. ObjectsAndClasses-Exercises\05. BookLibrary\obj\Debug\05. BookLibrary.csprojResolveAssemblyReference.cache
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\09. ObjectsAndClasses-Exercises\05. BookLibrary\obj\Debug\05. BookLibrary.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\09. ObjectsAndClasses-Exercises\05. BookLibrary\obj\Debug\_05.BookLibrary.exe
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\09. ObjectsAndClasses-Exercises\05. BookLibrary\obj\Debug\_05.BookLibrary.pdb

@@ -1,0 +1,7 @@
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\09. ObjectsAndClasses-Exercises\04. AverageGrades\bin\Debug\_04.AverageGrades.exe.config
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\09. ObjectsAndClasses-Exercises\04. AverageGrades\bin\Debug\_04.AverageGrades.exe
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\09. ObjectsAndClasses-Exercises\04. AverageGrades\bin\Debug\_04.AverageGrades.pdb
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\09. ObjectsAndClasses-Exercises\04. AverageGrades\obj\Debug\04. AverageGrades.csprojResolveAssemblyReference.cache
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\09. ObjectsAndClasses-Exercises\04. AverageGrades\obj\Debug\04. AverageGrades.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\09. ObjectsAndClasses-Exercises\04. AverageGrades\obj\Debug\_04.AverageGrades.exe
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\09. ObjectsAndClasses-Exercises\04. AverageGrades\obj\Debug\_04.AverageGrades.pdb

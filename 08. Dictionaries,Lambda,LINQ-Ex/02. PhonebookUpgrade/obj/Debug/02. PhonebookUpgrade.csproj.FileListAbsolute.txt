@@ -1,0 +1,6 @@
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\08. Dictionaries,Lambda,LINQ-Ex\02. PhonebookUpgrade\bin\Debug\_02.PhonebookUpgrade.exe.config
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\08. Dictionaries,Lambda,LINQ-Ex\02. PhonebookUpgrade\bin\Debug\_02.PhonebookUpgrade.exe
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\08. Dictionaries,Lambda,LINQ-Ex\02. PhonebookUpgrade\bin\Debug\_02.PhonebookUpgrade.pdb
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\08. Dictionaries,Lambda,LINQ-Ex\02. PhonebookUpgrade\obj\Debug\02. PhonebookUpgrade.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\08. Dictionaries,Lambda,LINQ-Ex\02. PhonebookUpgrade\obj\Debug\_02.PhonebookUpgrade.exe
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\08. Dictionaries,Lambda,LINQ-Ex\02. PhonebookUpgrade\obj\Debug\_02.PhonebookUpgrade.pdb

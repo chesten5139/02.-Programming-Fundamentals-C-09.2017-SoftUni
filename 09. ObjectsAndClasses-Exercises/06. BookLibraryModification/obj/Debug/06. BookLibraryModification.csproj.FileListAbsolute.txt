@@ -1,0 +1,6 @@
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\09. ObjectsAndClasses-Exercises\06. BookLibraryModification\bin\Debug\_06.BookLibraryModification.exe.config
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\09. ObjectsAndClasses-Exercises\06. BookLibraryModification\bin\Debug\_06.BookLibraryModification.exe
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\09. ObjectsAndClasses-Exercises\06. BookLibraryModification\bin\Debug\_06.BookLibraryModification.pdb
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\09. ObjectsAndClasses-Exercises\06. BookLibraryModification\obj\Debug\06. BookLibraryModification.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\09. ObjectsAndClasses-Exercises\06. BookLibraryModification\obj\Debug\_06.BookLibraryModification.exe
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\09. ObjectsAndClasses-Exercises\06. BookLibraryModification\obj\Debug\_06.BookLibraryModification.pdb

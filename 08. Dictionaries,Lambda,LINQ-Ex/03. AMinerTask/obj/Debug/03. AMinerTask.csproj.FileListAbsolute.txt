@@ -1,0 +1,6 @@
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\08. Dictionaries,Lambda,LINQ-Ex\03. AMinerTask\bin\Debug\_03.AMinerTask.exe.config
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\08. Dictionaries,Lambda,LINQ-Ex\03. AMinerTask\bin\Debug\_03.AMinerTask.exe
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\08. Dictionaries,Lambda,LINQ-Ex\03. AMinerTask\bin\Debug\_03.AMinerTask.pdb
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\08. Dictionaries,Lambda,LINQ-Ex\03. AMinerTask\obj\Debug\03. AMinerTask.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\08. Dictionaries,Lambda,LINQ-Ex\03. AMinerTask\obj\Debug\_03.AMinerTask.exe
+D:\Dropbox\Educational\Programming\02.-Programming-Fundamentals-C-09.2017-SoftUni\08. Dictionaries,Lambda,LINQ-Ex\03. AMinerTask\obj\Debug\_03.AMinerTask.pdb
